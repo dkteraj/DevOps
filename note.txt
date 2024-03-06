@@ -1,6 +1,4 @@
-Java1
-Java2
-Java3
-Java4
-note1
-note2
+dev1
+dev2
+dev3
+dev4
